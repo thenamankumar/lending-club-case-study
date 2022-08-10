@@ -1,8 +1,8 @@
-#Problem Statement
+# Problem Statement
 
 The Lending Club data given contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
-#Summary
+# Summary
 The Lending Club dataset contains a lot of variables which tells us about the kind of loan taken and borrower's past transactions. In our analysis we have used this data to find what variables out of all creates an impact on whether the loan is fully repaid or defaulted.
 
 We started from clearning the data, picking the right columns, filling null values and more. For the selected variables we performed univariate analysis by analyzing the spread of quantitative metrics and forming bands for each of them. For qualitative variables we did frequency plotting.
